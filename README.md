@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Достопримечательности России</title>
+Достопримечательности России
 
 <link rel="stylesheet" href="kk.css">
 
