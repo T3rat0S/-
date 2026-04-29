@@ -2,13 +2,12 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-Достопримечательности России
 <link rel="stylesheet" href="style.css">
-
 
 </head>
 
 <body>
+Достопримечательности России
 
 <div class="container">
 
