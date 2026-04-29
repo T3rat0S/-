@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #000000;
+    color: rgb(231, 9, 9);
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.menu {
+    width: 25%;
+    background: #fa6603;
+    padding: 15px;
+}
+
+.content {
+    width: 75%;
+    padding: 15px;
+    overflow: auto;
+}
+
+.menu a {
+    display: block;
+    color: white;
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: #ff9999;
+}
+
+.block {
+    background: #fffefe;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.gallery img {
+    width: 30%;
+    margin: 5px;
+    border-radius: 6px;
+}
